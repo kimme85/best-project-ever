@@ -1,1 +1,1 @@
-console.log('Hello, World!');
+$('body').css({backgroundcolor:'blue'})
